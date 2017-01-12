@@ -17,3 +17,13 @@ body {
 h1 {
     color: #666;
 }
+
+/* Extra Small Devices, Phones */ 
+@media (max-width : 480px) {
+    .background {
+        display: none !important;
+    }
+    #wrapper {
+        margin-top: 0px !important;
+    }
+}
