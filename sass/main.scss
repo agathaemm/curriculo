@@ -1,0 +1,19 @@
+$salmon: #E26A73;
+
+@import 'header';
+@import 'navbar';
+@import 'wrapper';
+@import 'utils';
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: #F0EEF1;
+    padding-bottom: 100px;
+}
+
+h1 {
+    color: #666;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "curriculo_agatha",
+  "authors": [
+    "agathaemm"
+  ],
+  "description": "meu curriculo",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "roboto-fontface": "^0.6.0"
+  }
+}
